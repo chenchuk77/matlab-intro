@@ -5,8 +5,6 @@ rand(6,5) * rand(5, 7)
 # 3x4 matrix
 a=[1,2,3,4 ; 2,3,4,5 ; 3,4,5,6]
 
-
-
 # create 4x2 matrix for training examples with 2 features x_1 x_2
 trx = rand(4,2);
 
