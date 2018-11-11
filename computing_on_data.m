@@ -1,4 +1,4 @@
-%Octave/Matlab tutorials #3
+% Octave/Matlab tutorials #3
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 A=[1 2; 3 4; 5 6]
 B=[11 12; 13 14; 15 16]
